@@ -106,3 +106,11 @@ Especificações obrigatórias do jogo:
 - Janelas de acerto: Perfeito (60ms = 100 pts), Ótimo (110ms = 70 pts), Bom (160ms = 40 pts).
 - Notas de segurar (sustain): quando houver espaço livre >= 0.8s até a próxima nota, transforme parte das notas em sustains com cauda longa. Enquanto o jogador segura a tecla, toque um som contínuo com vibrato (LFO), ondule a cauda visualmente, some pontos por segundo e dê um bônus de +50 × multiplicador ao segurar até o fim ("SEGUROU!").
 ```
+
+---
+
+## ©️ Autoria e Direitos Autorais
+
+**© 2026 Victoria Zambom ([@victoriazambomg](https://github.com/victoriazambomg)).**
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) — você pode estudar, modificar e replicar o projeto livremente para fins educacionais ou pessoais, desde que mantenha os créditos de autoria originais.
